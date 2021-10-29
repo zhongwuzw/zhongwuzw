@@ -1,7 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhongwuzw&show_icons=true&bg_color=ffffff&hide_title=true&theme=vue" />
 
-### Hi there 你好 👋
+### 你好 👋
 
-- 🔭 I’m currently working on miniapp、Flutter、React Native...
-- 🌱 I’m currently learning Flutter things
-- 📫 How to reach me: https://zhongwuzw.github.io/about/
+- 🔭 目前工作内容：Flutter、小程序等基础业务中间件。稳定性等基础架构治理。
+- 📫 这里找到我: https://zhongwuzw.github.io/about/
